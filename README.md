@@ -1,7 +1,3 @@
-
-
-
-
 # es-theme-elementarial-revamped 🎮
 A clean, modern, and enhanced revamp of the classic **Elementarial** theme for EmulationStation. This version is fully optimized for RetroBat, handheld devices (like the R36S), and modern retro-gaming setups.
 
@@ -43,10 +39,14 @@ Here is everything that has been improved and added in this revamped version:
 |      Banana + Dark      |   Bubblegum + Light   |
 
 ### Theme Gameplay Video
-| Video Demo (Click to play) | Main Screen |
+| Video Demo | Main Screen |
 | :----------------------------------: | :----------------------------------: |
-| [![Guarda il Video](https://github.com/user-attachments/assets/c14ad076-4f60-4e0e-964d-99289622703b)](https://raw.githubusercontent.com/Andre3ee/es-theme-elementarial-revamped/master/demo.mp4) | ![](https://github.com/user-attachments/assets/c14ad076-4f60-4e0e-964d-99289622703b) |
+| (https://github.com/user-attachments/assets/597e4d81-c901-47b1-88fb-e99c0fec3eeb) | ![](https://github.com/user-attachments/assets/c14ad076-4f60-4e0e-964d-99289622703b) |
 |      Guarda il tema in azione 🎬      |          Elementarial Revamped          |
+
+
+
+
 ---
 
 ## 🤝 Credits
