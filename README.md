@@ -19,6 +19,7 @@ Here is everything that has been improved and added in this revamped version:
 * **📐 New SVG Gamelist System Logos:** Replaced the old text-based system logos above the gamelist with crisp, scalable **SVG logos** for a much more premium and appealing look.
 * **🎬 Video Preview Support:** Added full video playback support within the game preview area. If you scraped your media using tools like Skraper, the theme will now smoothly play your game preview videos.
 * **🎨 Revamped Info UI:** Completely overhauled the user interface underneath the box art. Moved the game rating stars to a cleaner position and added the **game description text box**, making the interface feel much more complete and informative.
+* **🔊 Added system navigation sounds 
 * **🔋 Improved Battery Indicator:** * Moved the battery icon to the **left side** of the screen to prevent it from getting cut off on certain displays.
     * Made the icon smaller and cleaner to perfectly blend with the contextual UI.
     * Enhanced the overall battery icon asset for better readability.
@@ -39,16 +40,9 @@ Here is everything that has been improved and added in this revamped version:
 |      Banana + Dark      |   Bubblegum + Light   |
 
 ### Main Screen
-| <video src="https://github.com/user-attachments/assets/800fa860-fc5c-493e-919d-665c89c07ee4" width="100%" controls="controls" muted="muted" style="max-width:100%;"></video> | ![](https://github.com/user-attachments/assets/c14ad076-4f60-4e0e-964d-99289622703b) |
+| <video src="https://github.com/user-attachments/assets/800fa860-fc5c-493e-919d-665c89c07ee4" width="100%" controls="controls" muted="muted" style="max-width:100%;"></video> | <video src="https://github.com/user-attachments/assets/6d05f403-6b4b-4a84-84f7-ab73c35eee9e" width="100%" controls="controls" muted="muted" style="max-width:100%;"></video> |
 | :----------------------------------: | :----------------------------------: |
 |          Video Demo 🎬          |          Elementarial Revamped          |
-
-<video src="https://github.com/user-attachments/assets/800fa860-fc5c-493e-919d-665c89c07ee4" width="100%" controls="controls" muted="muted" style="max-width:100%;"></video>
-
-
-
-
-
 
 
 
