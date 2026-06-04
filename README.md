@@ -47,6 +47,10 @@ Here is everything that has been improved and added in this revamped version:
 | :----------------------------------: | :----------------------------------: |
 |          Video Demo Dark🎬          |          Video Demo Light🎬          |
 
+---
+
+## ⚠️⚠️Known issues ⚠️⚠️
+* The battery icon is not always shown as in the images, sometimes it returns to the default on consoles like r36s, I'm not sure if it's a theme issue but it could be an OS issue, I tried to fix it in every way but I don't know what is causing it, if anyone knows anything please contact me
 
 
 ---
