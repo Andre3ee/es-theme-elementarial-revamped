@@ -1,4 +1,3 @@
-<img width="1440" height="1080" alt="Screenshot (79)" src=" https://github.com/user-attachments/assets/e53836fc-394f-4732-8319-565d155fb179 " />
 # es-theme-elementarial-revamped 🎮
 A clean, modern, and enhanced revamp of the classic **Elementarial** theme for EmulationStation. This version is fully optimized for RetroBat, handheld devices (like the R36S), and modern retro-gaming setups.
 
@@ -31,8 +30,7 @@ Here is everything that has been improved and added in this revamped version:
 ## 📸 Screenshots
 
 ### Main Screen
-| ![](<img width="1440" height="1080" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/d44230f3-0b7a-4ba5-bd17-c40080d7c9ec" />
-) | ![](https://github.com/user-attachments/assets/e53836fc-394f-4732-8319-565d155fb179) |
+| ![](https://github.com/user-attachments/assets/56037d9b-4fb9-466a-97e0-b714d0254f41) | ![](https://github.com/user-attachments/assets/f448d4fa-691c-4886-940c-b1c87c4512dc) |
 | :----------------------------------: | :----------------------------------: |
 |          Elementarial Revamped (Screenshot 1)          |          Elementarial Revamped (Screenshot 2)          |
 
