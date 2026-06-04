@@ -40,10 +40,11 @@ Here is everything that has been improved and added in this revamped version:
 | :----------------------------------: | :----------------------------------: |
 |      Banana + Dark      |   Bubblegum + Light   |
 
-### Menu
-| ![](INCOLLA_QUI_IL_LINK_DEL_QUINTO_SCREENSHOT) | ![](INCOLLA_QUI_IL_LINK_DEL_SESTO_SCREENSHOT) |
+### Theme Video
+| Video Demo | Main Screen |
 | :----------------------------------: | :----------------------------------: |
-|            Blueberry + Dark            |        Game Boy Scheme + Light        |
+| https://raw.githubusercontent.com/Andre3ee/es-theme-elementarial-revamped/master/demo.mp4 | ![](https://github.com/user-attachments/assets/c14ad076-4f60-4e0e-964d-99289622703b) |
+|      Guarda il tema in azione 🎬      |          Elementarial Revamped          |
 ---
 
 ## 🤝 Credits
