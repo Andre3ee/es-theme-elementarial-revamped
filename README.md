@@ -38,11 +38,11 @@ Here is everything that has been improved and added in this revamped version:
 | :----------------------------------: | :----------------------------------: |
 |      Banana + Dark      |   Bubblegum + Light   |
 
-### Theme Gameplay Video
-| Video Demo | Main Screen |
-| :----------------------------------: | :----------------------------------: |
-| https://github.com/user-attachments/assets/597e4d81-c901-47b1-88fb-e99c0fec3eeb | ![](https://github.com/user-attachments/assets/c14ad076-4f60-4e0e-964d-99289622703b) |
-|      Guarda il tema in azione 🎬      |          Elementarial Revamped          |
+src="https://github.com/user-attachments/assets/800fa860-fc5c-493e-919d-665c89c07ee4"
+
+
+
+
 
 
 
