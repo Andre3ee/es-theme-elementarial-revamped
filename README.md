@@ -1,3 +1,4 @@
+<img width="1440" height="1080" alt="Screenshot (79)" src=" https://github.com/user-attachments/assets/e53836fc-394f-4732-8319-565d155fb179 " />
 # es-theme-elementarial-revamped 🎮
 A clean, modern, and enhanced revamp of the classic **Elementarial** theme for EmulationStation. This version is fully optimized for RetroBat, handheld devices (like the R36S), and modern retro-gaming setups.
 
@@ -30,7 +31,8 @@ Here is everything that has been improved and added in this revamped version:
 ## 📸 Screenshots
 
 ### Main Screen
-| ![](https://github.com/user-attachments/assets/c14ad076-4f60-4e0e-964d-99289622703b) | ![](https://github.com/user-attachments/assets/dbe4e5b9-f0d7-4a72-9156-51fa682da6ff) |
+| ![](<img width="1440" height="1080" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/d44230f3-0b7a-4ba5-bd17-c40080d7c9ec" />
+) | ![](https://github.com/user-attachments/assets/e53836fc-394f-4732-8319-565d155fb179) |
 | :----------------------------------: | :----------------------------------: |
 |          Elementarial Revamped (Screenshot 1)          |          Elementarial Revamped (Screenshot 2)          |
 
@@ -43,7 +45,6 @@ Here is everything that has been improved and added in this revamped version:
 | ![](INCOLLA_QUI_IL_LINK_DEL_QUINTO_SCREENSHOT) | ![](INCOLLA_QUI_IL_LINK_DEL_SESTO_SCREENSHOT) |
 | :----------------------------------: | :----------------------------------: |
 |            Blueberry + Dark            |        Game Boy Scheme + Light        |
-
 ---
 
 ## 🤝 Credits
