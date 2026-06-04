@@ -1,3 +1,5 @@
+<img width="1440" height="1080" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/fda54703-7792-446e-bdb9-35749c82a883" />
+<img width="1440" height="1080" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/43ebf1f3-ee41-4795-8af2-1fd06a17785c" />
 # es-theme-elementarial-revamped 🎮
 A clean, modern, and enhanced revamp of the classic **Elementarial** theme for EmulationStation. This version is fully optimized for RetroBat, handheld devices (like the R36S), and modern retro-gaming setups.
 
@@ -35,9 +37,9 @@ Here is everything that has been improved and added in this revamped version:
 |          Elementarial Revamped (Screenshot 1)          |          Elementarial Revamped (Screenshot 2)          |
 
 ### Game List
-| ![](INCOLLA_QUI_IL_LINK_DEL_TERZO_SCREENSHOT) | ![](INCOLLA_QUI_IL_LINK_DEL_QUARTO_SCREENSHOT) |
+| ![](https://github.com/user-attachments/assets/fda54703-7792-446e-bdb9-35749c82a883) | ![](https://github.com/user-attachments/assets/43ebf1f3-ee41-4795-8af2-1fd06a17785c) |
 | :----------------------------------: | :----------------------------------: |
-|      Mint + Dark + Detailed View      |   SNES Scheme + Light + Boxes View   |
+|      Banana + Dark      |   Bubblegum + Light   |
 
 ### Menu
 | ![](INCOLLA_QUI_IL_LINK_DEL_QUINTO_SCREENSHOT) | ![](INCOLLA_QUI_IL_LINK_DEL_SESTO_SCREENSHOT) |
