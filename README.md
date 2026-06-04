@@ -27,6 +27,7 @@ Here is everything that has been improved and added in this revamped version:
 
 ---
 
+## **SHOWCASE**
 ## 📸 Screenshots
 
 ### Main Screen
@@ -38,6 +39,8 @@ Here is everything that has been improved and added in this revamped version:
 | ![](https://github.com/user-attachments/assets/fda54703-7792-446e-bdb9-35749c82a883) | ![](https://github.com/user-attachments/assets/43ebf1f3-ee41-4795-8af2-1fd06a17785c) |
 | :----------------------------------: | :----------------------------------: |
 |      Banana + Dark      |   Bubblegum + Light   |
+
+## 📸 Videos
 
 ### Main Screen
 | <video src="https://github.com/user-attachments/assets/800fa860-fc5c-493e-919d-665c89c07ee4" width="100%" controls="controls" muted="muted" style="max-width:100%;"></video> | <video src="https://github.com/user-attachments/assets/6d05f403-6b4b-4a84-84f7-ab73c35eee9e" width="100%" controls="controls" muted="muted" style="max-width:100%;"></video> |
