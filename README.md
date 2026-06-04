@@ -38,6 +38,11 @@ Here is everything that has been improved and added in this revamped version:
 | :----------------------------------: | :----------------------------------: |
 |      Banana + Dark      |   Bubblegum + Light   |
 
+### Main Screen
+| <video src="https://github.com/user-attachments/assets/800fa860-fc5c-493e-919d-665c89c07ee4" width="100%" controls="controls" muted="muted" style="max-width:100%;"></video> | ![](https://github.com/user-attachments/assets/c14ad076-4f60-4e0e-964d-99289622703b) |
+| :----------------------------------: | :----------------------------------: |
+|          Video Demo 🎬          |          Elementarial Revamped          |
+
 <video src="https://github.com/user-attachments/assets/800fa860-fc5c-493e-919d-665c89c07ee4" width="100%" controls="controls" muted="muted" style="max-width:100%;"></video>
 
 
