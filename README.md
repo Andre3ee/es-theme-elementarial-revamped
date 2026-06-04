@@ -27,6 +27,13 @@ Here is everything that has been improved and added in this revamped version:
 
 ---
 
+## Game List
+| ![]([https://i.imgur.com/7aPxKvO.png](https://github.com/user-attachments/assets/c14ad076-4f60-4e0e-964d-99289622703b)) | ![]([https://i.imgur.com/ADsrJET.png](https://github.com/user-attachments/assets/dbe4e5b9-f0d7-4a72-9156-51fa682da6ff)) |
+| :----------------------------------: | :----------------------------------: |
+|     Mint + Dark + Detailed View      |   SNES Sheme + Light + Boxes View    |
+
+---
+
 ## 🤝 Credits
 * Original theme concept by mluizvitor.
 * Revamp, UI optimization, and fixes by **Andre3ee**.
