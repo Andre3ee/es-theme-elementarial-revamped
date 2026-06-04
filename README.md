@@ -27,10 +27,22 @@ Here is everything that has been improved and added in this revamped version:
 
 ---
 
-## Game List
-| ![]([https://i.imgur.com/7aPxKvO.png](https://github.com/user-attachments/assets/c14ad076-4f60-4e0e-964d-99289622703b)) | ![]([)) |
-| :---------------------------------------------------------------------------------------------------------------------: | :----------------------------------: |
-|                                      Mint + Dark + Detailed View                                                        |   SNES Sheme + Light + Boxes View    |
+## 📸 Screenshots
+
+### Main Screen
+| ![](https://github.com/user-attachments/assets/c14ad076-4f60-4e0e-964d-99289622703b) | ![](https://github.com/user-attachments/assets/dbe4e5b9-f0d7-4a72-9156-51fa682da6ff) |
+| :----------------------------------: | :----------------------------------: |
+|          Elementarial Revamped (Screenshot 1)          |          Elementarial Revamped (Screenshot 2)          |
+
+### Game List
+| ![](INCOLLA_QUI_IL_LINK_DEL_TERZO_SCREENSHOT) | ![](INCOLLA_QUI_IL_LINK_DEL_QUARTO_SCREENSHOT) |
+| :----------------------------------: | :----------------------------------: |
+|      Mint + Dark + Detailed View      |   SNES Scheme + Light + Boxes View   |
+
+### Menu
+| ![](INCOLLA_QUI_IL_LINK_DEL_QUINTO_SCREENSHOT) | ![](INCOLLA_QUI_IL_LINK_DEL_SESTO_SCREENSHOT) |
+| :----------------------------------: | :----------------------------------: |
+|            Blueberry + Dark            |        Game Boy Scheme + Light        |
 
 ---
 
