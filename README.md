@@ -1,3 +1,6 @@
+<img width="1440" height="1080" alt="Screenshot (74)" src="https://github.com/user-attachments/assets/c14ad076-4f60-4e0e-964d-99289622703b" />
+<img width="1440" height="1080" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/dbe4e5b9-f0d7-4a72-9156-51fa682da6ff" />
+
 Markdown
 # es-theme-elementarial-revamped 🎮
 
