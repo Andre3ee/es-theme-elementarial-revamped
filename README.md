@@ -1,5 +1,6 @@
 # es-theme-elementarial-revamped 🎮
 A clean, modern, and enhanced revamp of the classic **Elementarial** theme for EmulationStation. 
+---
 <img width="1920" height="1440" alt="splash" src="https://github.com/user-attachments/assets/b527d138-2af8-4f53-957c-b459bd733993" />
 
 ---
