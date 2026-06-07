@@ -19,14 +19,14 @@ Here is everything that has been improved and added in this revamped version:
 * **📐 New SVG Gamelist System Logos:** Replaced the old text-based system logos above the gamelist with crisp, scalable **SVG logos** for a much more premium and appealing look.
 * **🎬 Video Preview Support:** Added full video playback support within the game preview area. If you scraped your media using tools like Skraper, the theme will now smoothly play your game preview videos.
 * **🎨 Revamped Info UI:** Completely overhauled the user interface underneath the box art. Moved the game rating stars to a cleaner position and added the **game description text box**, making the interface feel much more complete and informative.
-* **🔊 Added system navigation sounds.
+* **🔊 UI Sounds:** Added system navigation sounds.
 * **🔋 Improved Battery Indicator:** * Moved the battery icon to the **left side** of the screen to prevent it from getting cut off on certain displays.
     * Made the icon smaller and cleaner to perfectly blend with the contextual UI.
     * Enhanced the overall battery icon asset for better readability.
 * **🔤 New System Font:** Introduced a new, modern system font that dramatically improves text readability and gives the entire theme a fresh, updated aesthetic.
-* **🕗 Updated clock display in the menù.
-* **💮 Added 2 new custom collections "Grand Theft Auto", "Doom".
-* **🔰 Added 2 new color theme options.
+* **🕗 Clock:** Updated clock display in the menù.
+* **💮 Custom Collections:** Added 2 new custom collections "Grand Theft Auto", "Doom".
+* **🔰 Colors:** Added 2 new color theme options.
 
 ---
 
