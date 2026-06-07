@@ -20,7 +20,7 @@ Here is everything that has been improved and added in this revamped version:
 * **🎬 Video Preview Support:** Added full video playback support within the game preview area. If you scraped your media using tools like Skraper, the theme will now smoothly play your game preview videos.
 * **🎨 Revamped Info UI:** Completely overhauled the user interface underneath the box art. Moved the game rating stars to a cleaner position and added the **game description text box**, making the interface feel much more complete and informative.
 * **🔊 UI Sounds:** Added system navigation sounds.
-* **🔋 Improved Battery Indicator:** * Moved the battery icon to the **left side** of the screen to prevent it from getting cut off on certain displays.
+* **🔋 Improved Battery Indicator:** Moved the battery icon to the **left side** of the screen to prevent it from getting cut off on certain displays.
     * Made the icon smaller and cleaner to perfectly blend with the contextual UI.
     * Enhanced the overall battery icon asset for better readability.
 * **🔤 New System Font:** Introduced a new, modern system font that dramatically improves text readability and gives the entire theme a fresh, updated aesthetic.
